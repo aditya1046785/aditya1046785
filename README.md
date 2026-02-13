@@ -1,77 +1,49 @@
-# Neon Architect — Personal Portfolio
+<div align="center">
 
-This is a world-class personal portfolio built with Next.js + TypeScript + Tailwind that mirrors Linear.app’s crisp, minimal, high‑contrast aesthetic while showcasing AI‑powered projects in a Bento grid, with clean micro‑interactions and responsive perfection.
+# 👋 Hey, I'm Aditya Tripathi
 
-This project was generated with [Firebase Studio](https://studio.firebase.google.com).
+**BTech CSE Student | Full Stack Developer | AI Enthusiast**
 
-## Tech Stack
+[![Portfolio](https://img.shields.io/badge/🌐_CereCrafts-Portfolio-6C63FF?style=flat-square)](https://cerecrafts.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-tripathi-cse)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aditya10467@gmail.com)
 
-*   **Framework**: Next.js (App Router), TypeScript
-*   **Styling**: Tailwind CSS
-*   **UI Components**: shadcn/ui
-*   **Form Management**: React Hook Form, Zod
-*   **AI**: Genkit, Google AI
-*   **Deployment**: Vercel (recommended), Firebase App Hosting
+</div>
 
-## Getting Started
+---
 
-### Prerequisites
+### 🧠 About Me
 
-*   Node.js (v18 or later)
-*   npm or yarn
+- 🎓 Pursuing **BTech in Computer Science & Engineering**
+- 💻 Building intelligent & beautiful web applications
+- 🤖 Exploring **AI & LLM** integrations in real-world apps
+- 🎨 Passionate about clean **UI/UX Design**
 
-### Installation
+---
 
-1.  Clone the repository:
-    ```bash
-    git clone https://github.com/your-repo/neon-architect.git
-    cd neon-architect
-    ```
-2.  Install dependencies:
-    ```bash
-    npm install
-    ```
+### 🛠️ Skills
 
-### Running the Development Server
+| Area | Technologies |
+|------|-------------|
+| **Frontend** | Next.js, React, TypeScript, JavaScript, Tailwind CSS |
+| **Backend** | Node.js, Python |
+| **AI/ML** | LLM Integration, OpenAI, LangChain |
+| **Design** | UI/UX, Figma |
+| **Tools** | Git, GitHub, VS Code, Vercel |
 
-To run the app locally, use:
+---
+
+### 🚀 CereCrafts — My Portfolio
+
+> _Cere (Brain) + Crafts (Creations)_ 🧠✨
+
+My personal portfolio website showcasing projects, skills & experience. Built with **Next.js**, **TypeScript** & **Tailwind CSS**.
+
 ```bash
-npm run dev
-```
-Open [http://localhost:9002](http://localhost:9002) with your browser to see the result.
+git clone https://github.com/your-username/cerecrafts.git
+cd cerecrafts
+npm install && npm run dev
+<div align="center">
+Made with ❤️ by Aditya Tripathi
 
-### Building for Production
-
-To create a production build, use:
-```bash
-npm run build
-```
-This will create an optimized build in the `.next` folder.
-
-To run the production server, use:
-```bash
-npm run start
-```
-
-## Design Decisions
-
-*   **Linear-Inspired Aesthetic**: The design adheres to a strict, minimal, high-contrast dark theme inspired by Linear.app. This communicates a sense of quality, taste, and precision.
-*   **Static Data Source**: Project data is managed in a static TypeScript array (`src/lib/data.ts`). This simplifies the initial build, avoiding the need for a CMS, and makes content updates a code-level change.
-*   **Gradient Borders**: A CSS `::before` pseudo-element with a gradient background and a `mask` is used to create the 1px gradient border effect on cards. The inner content has a solid background color, creating a crisp, clean stroke.
-*   **AI Integration**: Genkit flows are used to power features like project filtering, resume enhancement, and dynamic project detail generation, showcasing modern AI capabilities.
-*   **Component-Based Architecture**: The UI is broken down into small, reusable components located in `src/components`, promoting maintainability and a clean codebase. Sections are organized in `src/components/sections`.
-*   **Smooth Scrolling**: Navigation between sections is handled client-side with a custom hook to ensure a smooth scrolling experience.
-
-## Environment Variables
-
-If you choose to integrate an email service for the contact form, you will need to set up environment variables. Create a `.env.local` file in the root of your project:
-
-```env
-# For Resend
-RESEND_API_KEY=your_resend_api_key
-
-# For Formspree
-FORMSPREE_ID=your_formspree_id
-```
-
-The current implementation simulates a successful form submission without sending an email. To enable email sending, you would need to modify the server action in `src/app/actions.ts`.
+</div> ```
