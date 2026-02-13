@@ -42,9 +42,8 @@ My personal portfolio website showcasing projects, skills & experience. Built wi
 ```bash
 git clone https://github.com/your-username/cerecrafts.git
 cd cerecrafts
-npm install && npm run dev ```
-```bash
-<div align="center">
+npm install && npm run dev
+```
+
 Made with ❤️ by Aditya Tripathi
 
-</div> ```
