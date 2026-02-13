@@ -40,7 +40,7 @@
 My personal portfolio website showcasing projects, skills & experience. Built with **Next.js**, **TypeScript** & **Tailwind CSS**.
 
 ```bash
-git clone https://github.com/your-username/cerecrafts.git
+git clone https://github.com/aditya1046785/cerecrafts.git
 cd cerecrafts
 npm install && npm run dev
 ```
