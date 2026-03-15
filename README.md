@@ -1,37 +1,26 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,30:0a0a2e,70:001a3d,100:00D9FF&height=200&section=header&text=ADITYA%20TRIPATHI&fontSize=52&fontColor=00D9FF&fontAlignY=55&animation=fadeIn&desc=Full%20Stack%20%20%7C%20%20AI%20Builder%20%20%7C%20%20BTech%20CSE&descSize=16&descAlignY=78&descAlign=50"/>
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:00D9FF,100:0a0a0f&height=120&section=header&animation=fadeIn"/>
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1500&color=00D9FF&center=true&vCenter=true&width=700&lines=◈+Turning+prompts+into+products+since+day+one;◈+I+don't+add+AI+to+apps+—+I+build+AI-native+ones;◈+Shipping+:+CereCrafts+%2B+FounderLog+%2B+whatever%27s+next;◈+Design+is+not+how+it+looks.+It%27s+how+it+thinks.)](https://git.io/typing-svg)
 
 <br/>
 
-```
- █████╗ ██████╗ ██╗████████╗██╗   ██╗ █████╗
-██╔══██╗██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝██╔══██╗
-███████║██║  ██║██║   ██║    ╚████╔╝ ███████║
-██╔══██║██║  ██║██║   ██║     ╚██╔╝  ██╔══██║
-██║  ██║██████╔╝██║   ██║      ██║   ██║  ██║
-╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝
-
-████████╗██████╗ ██╗██████╗  █████╗ ████████╗██╗  ██╗██╗
-╚══██╔══╝██╔══██╗██║██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██║
-   ██║   ██████╔╝██║██████╔╝███████║   ██║   ███████║██║
-   ██║   ██╔══██╗██║██╔═══╝ ██╔══██║   ██║   ██╔══██║██║
-   ██║   ██║  ██║██║██║     ██║  ██║   ██║   ██║  ██║██║
-   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝
-
-              [ SYSTEM ONLINE · v2025 ]
-```
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%2B+AI+Builder;Turning+prompts+into+products;Designing+for+humans%2C+building+for+scale;Currently+shipping+%3A+CereCrafts+%26+FounderLog)](https://git.io/typing-svg)
-
-<br/>
-
-<a href="https://cerecrafts.in"><img src="https://img.shields.io/badge/◈_CERECRAFTS-PORTFOLIO-00D9FF?style=for-the-badge&logoColor=white"/></a>
-<a href="https://linkedin.com/in/aditya-tripathi-cse"><img src="https://img.shields.io/badge/◈_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:aditya10467@gmail.com"><img src="https://img.shields.io/badge/◈_GMAIL-FF4757?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=aditya1046785&style=for-the-badge&color=00D9FF&label=◈_PROFILE+VIEWS"/>
+<a href="https://cerecrafts.in">
+  <img src="https://img.shields.io/badge/◈ CERECRAFTS.IN-LIVE-00D9FF?style=for-the-badge&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/aditya-tripathi-cse">
+  <img src="https://img.shields.io/badge/◈ LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:aditya10467@gmail.com">
+  <img src="https://img.shields.io/badge/◈ GMAIL-WRITE TO ME-FF4757?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=aditya1046785&style=for-the-badge&color=00D9FF&label=◈ VISITORS"/>
 
 </div>
 
@@ -44,15 +33,23 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                      INITIALIZING...                         ║
-║                                                              ║
-║   > Loading developer profile ████████████████████  100%     ║
-║   > Scanning skills ████████████████████████████░░  98%      ║
-║   > Brewing coffee ██████████████████████████████  100%      ║
-║                                                              ║
-║   STATUS : ALL SYSTEMS OPERATIONAL                           ║
-╚══════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║    >  BOOTING  ADITYA_OS  ···················· v2025.LTS              ║
+║                                                                       ║
+║    [██████████████████████████████████████████████████]  DONE         ║
+║                                                                       ║
+║    MODULE  brain.exe          ············  LOADED   ✓                ║
+║    MODULE  fullstack.core     ············  LOADED   ✓                ║
+║    MODULE  ai_integration     ············  LOADED   ✓                ║
+║    MODULE  ui_obsession       ············  LOADED   ✓                ║
+║    MODULE  coffee.dependency  ············  LOADED   ✓                ║
+║                                                                       ║
+║    KERNEL  :  "ship things that matter"                               ║
+║    UPTIME  :  since 2003  ·  LOCATION : India 🇮🇳                      ║
+║    STATUS  :  ALL SYSTEMS NOMINAL — CURRENTLY BUILDING                ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -64,27 +61,37 @@
 <br/>
 
 ```bash
-$ whoami --detailed
+$ cat /etc/aditya/identity.conf
 ```
 
 ```yaml
-identity:
-  name      : Aditya Tripathi
-  alias     : "The guy who makes AI do the boring parts"
-  location  : India 🇮🇳
-  education : BTech Computer Science & Engineering
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#  IDENTITY FILE — DO NOT MODIFY (it won't work)
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-currently:
-  building  : CereCrafts (portfolio) · FounderLog (founder tool)
-  exploring : Agentic AI · LLM Pipelines · System Design at scale
-  learning  : Every. Single. Day.
+name        : Aditya Tripathi
+role        : Full Stack Developer  +  AI Builder
+degree      : BTech Computer Science & Engineering
 
-philosophy:
-  on_code   : "Write it like the next developer is a serial killer who knows your address."
-  on_design : "If it needs instructions, it needs redesign."
-  on_AI     : "Don't sprinkle AI on top. Bake it in from the start."
+currently_building:
+  - CereCrafts     # Personal portfolio — cerecrafts.in
+  - FounderLog     # Founder's daily problem journal — React Native
 
-status      : OPEN TO — collabs · internships · interesting problems
+currently_learning:
+  - Agentic AI workflows
+  - LLM pipeline architecture
+  - System design at scale
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#  CORE BELIEFS
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+on_code    : "Write it like the next dev is a serial killer who knows where you live."
+on_design  : "If it needs instructions, it needs a redesign."
+on_AI      : "Don't sprinkle AI on top. Bake it in from the start."
+on_shipping: "A live app with rough edges beats a perfect app that doesn't exist."
+
+open_to    : [ collabs, internships, interesting_problems, good_conversations ]
 ```
 
 <br/>
@@ -94,18 +101,34 @@ status      : OPEN TO — collabs · internships · interesting problems
 <br/>
 
 ```bash
-$ cat ./stack --pretty
+$ run diagnostics --module stack
 ```
+
+<br/>
 
 <div align="center">
 
-| LAYER | TECH | LEVEL |
-|:------|:-----|:------|
-| 🖥️ **Frontend** | Next.js · React · TypeScript · Tailwind CSS | `████████░░` |
-| ⚙️ **Backend** | Node.js · Python · REST APIs | `███████░░░` |
-| 🤖 **AI Layer** | OpenAI · LangChain · Prompt Engineering · LLM Integration | `██████░░░░` |
-| 🎨 **Design** | Figma · UI/UX · Design Systems | `███████░░░` |
-| 🛠️ **Infra** | Git · GitHub · Vercel · VS Code | `████████░░` |
+```
+ DIAGNOSTIC REPORT ─────────────────────────────────────────────────────
+                                                                         
+  FRONTEND          Next.js · React · TypeScript · Tailwind CSS          
+                    ████████████████████████████████████████░░  95%      
+                                                                         
+  BACKEND           Node.js · Python · REST API Design                   
+                    ████████████████████████████████████░░░░░░  85%      
+                                                                         
+  AI  LAYER         OpenAI · LangChain · Prompt Engineering              
+                    ██████████████████████████████████░░░░░░░░  80%      
+                                                                         
+  UI / UX           Figma · Design Systems · Component Architecture      
+                    ████████████████████████████████████░░░░░░  88%      
+                                                                         
+  INFRA             Git · GitHub · Vercel · VS Code                      
+                    ██████████████████████████████████████████  99%      
+                                                                         
+  LEARNING SPEED    ∞  (no ceiling)                                      
+ ────────────────────────────────────────────────────────────────────────
+```
 
 </div>
 
@@ -116,18 +139,24 @@ $ cat ./stack --pretty
 <br/>
 
 ```bash
-$ github-stats --user aditya1046785
+$ github-stats --user aditya1046785 --full
 ```
+
+<br/>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aditya1046785&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0d1117&ring_color=00D9FF&include_all_commits=true&count_private=true"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya1046785&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0d1117"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=aditya1046785&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0d1117&ring_color=00D9FF&include_all_commits=true&count_private=true"/>
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya1046785&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0d1117&langs_count=6"/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=aditya1046785&theme=transparent&hide_border=true&ring=00D9FF&fire=FF4757&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=888888&stroke=00D9FF"/>
+<img width="72%" src="https://streak-stats.demolab.com?user=aditya1046785&theme=transparent&hide_border=true&ring=00D9FF&fire=FF4757&currStreakLabel=00D9FF&sideLabels=ffffff&dates=666688&stroke=00D9FF&background=0d1117"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aditya1046785&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FF4757&area=true&area_color=00D9FF&hide_border=true"/>
 
 </div>
 
@@ -138,43 +167,51 @@ $ github-stats --user aditya1046785
 <br/>
 
 ```bash
-$ ls -la ./featured_projects
-```
-
-```
-total 2 active builds
-
-drwxr-xr-x  ◈  cerecrafts     [  LIVE  ]   Personal portfolio
-drwxr-xr-x  ◈  founderlog     [  WIP   ]   Founder's daily problem journal
+$ ls ./projects --sort=impact
 ```
 
 <br/>
 
-### ◈ &nbsp; CereCrafts &nbsp;—&nbsp; `cerecrafts.in`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> *Cere (Brain) + Crafts (Creations)* — where logic meets aesthetics.
+### ◈ &nbsp;CereCrafts
+> *Cere (Brain) + Crafts (Creations)*
 
-Built with **Next.js · TypeScript · Tailwind CSS**. Fast, opinionated, human.
+Where logic meets aesthetics. My personal corner of the internet — fast, opinionated, human.
 
-```bash
-git clone https://github.com/aditya1046785/cerecrafts.git
-cd cerecrafts && npm install && npm run dev
-# → localhost:3000
+```
+Stack  →  Next.js · TypeScript · Tailwind
+Status →  LIVE  ·  cerecrafts.in
 ```
 
-<br/>
+```bash
+git clone github.com/aditya1046785/cerecrafts
+npm install && npm run dev
+```
 
-### ◈ &nbsp; FounderLog &nbsp;—&nbsp; `in active development`
+</td>
+<td width="50%" valign="top">
 
-> Write 10 problems a day. Build the founder brain.
+### ◈ &nbsp;FounderLog
+> *Observe. Document. Ideate. Repeat.*
 
-A dark, offline-first mobile app for founders to observe, document, and ideate.
-Built with **React Native · Expo · TypeScript · SQLite**
+A dark, offline-first mobile app that forces founders to write 10 real problems daily. Not a notes app — a cognitive training system.
+
+```
+Stack  →  React Native · Expo · SQLite
+Status →  WIP  ·  Shipping soon
+```
 
 ```bash
-git clone https://github.com/aditya1046785/founderlog.git
-cd founderlog && npm install && npx expo start
+git clone github.com/aditya1046785/founderlog
+npm install && npx expo start
 ```
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -183,26 +220,26 @@ cd founderlog && npm install && npx expo start
 <br/>
 
 ```bash
-$ cat current_mission.log --tail 10
+$ tail -f /var/log/aditya/mission_2025.log
 ```
 
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  CURRENT OBJECTIVES                              [ 2025 ]
+  [Q1]  Ship CereCrafts v2 — full project showcase + blog
+  [Q2]  Launch FounderLog on Play Store + App Store
+  [Q2]  Master LLM agent design — beyond basic API calls
+  [Q3]  Contribute meaningfully to 3 open source projects
+  [Q4]  Land a role where the work actually ships and matters
 
-  ▸  Ship CereCrafts v2 with full project showcase
-  ▸  Launch FounderLog on Play Store + App Store
-  ▸  Go deeper on Agentic AI — not just API wrappers
-  ▸  Contribute to 3 open source projects this year
-  ▸  Land a role where I build things that actually matter
+  ─────────────────────────────────────────────────────────────
 
-  NORTH STAR
+  NORTH STAR :
 
-  Build software that feels inevitable.
-  The kind where users can't imagine life without it.
+  Build software so good it feels inevitable.
+  The kind users can't explain — they just can't go back.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 <br/>
@@ -214,30 +251,36 @@ $ cat current_mission.log --tail 10
 <div align="center">
 
 ```bash
-$ ping aditya.tripathi --message "let's build something"
+$ ping cerecrafts.in --ask "want to build something?"
 ```
 
 ```
-PING aditya.tripathi (cerecrafts.in) — packet size: 1 idea
+Pinging cerecrafts.in with 1 idea...
 
-  64 bytes: Open to collabs on AI-native products
-  64 bytes: Open to internships where I ship real work
-  64 bytes: Open to conversations about hard problems
-  64 bytes: Response time — fast. Always.
+  Reply from aditya :  Open to collabs on AI-native products
+  Reply from aditya :  Open to internships where real work ships
+  Reply from aditya :  Open to any problem worth solving
+  Reply from aditya :  Response time — always fast.
 
-  Round trip: Worth it.
+  Packets sent: 1 idea   Received: full attention   Lost: 0%
+  Round trip time: worth it.
 ```
 
 <br/>
 
-[![cerecrafts.in](https://img.shields.io/badge/◈_DROP_IN_AT-cerecrafts.in-00D9FF?style=for-the-badge)](https://cerecrafts.in)
+<a href="https://cerecrafts.in">
+  <img src="https://img.shields.io/badge/◈ FIND ME AT — cerecrafts.in-000000?style=for-the-badge&color=00D9FF"/>
+</a>
 
-<br/>
+<br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:00D9FF,100:0a0a0f&height=100&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:001a3d,100:000000&height=120&section=footer&animation=fadeIn"/>
 
 ```
-[ BUILT WITH OBSESSION · NOT OBLIGATION · BY ADITYA TRIPATHI ]
+◈ ─────────────────────────────────────────────────── ◈
+     BUILT WITH OBSESSION · NOT OBLIGATION
+          BY  ADITYA  TRIPATHI  ·  2025
+◈ ─────────────────────────────────────────────────── ◈
 ```
 
 </div>
