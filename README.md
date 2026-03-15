@@ -46,7 +46,7 @@
 ║    MODULE  coffee.dependency  ············  LOADED   ✓                ║
 ║                                                                       ║
 ║    KERNEL  :  "ship things that matter"                               ║
-║    UPTIME  :  since 2003  ·  LOCATION : India 🇮🇳                      ║
+║    UPTIME  :  since 2024  ·  LOCATION : India 🇮🇳                      ║
 ║    STATUS  :  ALL SYSTEMS NOMINAL — CURRENTLY BUILDING                ║
 ║                                                                       ║
 ╚═══════════════════════════════════════════════════════════════════════╝
