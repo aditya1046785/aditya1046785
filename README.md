@@ -33,7 +33,7 @@ class Aditya:
 
 ## `> ls ./projects`
 
-### 🏛️ [Nirashray Foundation Website](https://nirashray-fundation.vercel.app)
+### 🏛️ [A Foundation Website](https://nirashray-fundation.vercel.app)
 > *Real client. Real impact. Real headaches.*
 
 A full-featured NGO platform built **solo** — because apparently I like challenges.
